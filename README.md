@@ -64,6 +64,7 @@ New to mining, or evaluating whether a machine pays for itself before you buy it
 - **[ASIC Miner Value](https://www.asicminervalue.com/)** — Catalogue of ASIC models with hashrate, power draw, efficiency in J/TH and current profitability ranking.
 - **[BackPoW](https://backpow.com)** — Cost of Production and solo block odds oracle, with per-coin pages, hardware-vs-coin combinations and an unauthenticated JSON API for scripted analysis.
 - **[BitInfoCharts](https://bitinfocharts.com/)** — Long-range difficulty, hashrate, fee and address-distribution charts for major PoW chains.
+- **[Chain.Love](https://chain.love/)** — Open-source directory and comparison platform for blockchain RPC node providers, block explorers, indexers, and network infrastructure across Bitcoin, Filecoin, and 100+ chains ([GitHub](https://github.com/Chain-Love/chain-love)).
 - **[CoinWarz](https://www.coinwarz.com/calculators)** — Classic difficulty and profitability calculators with historical difficulty series per coin.
 - **[Hashrate.no](https://hashrate.no/)** — GPU and CPU benchmark database with tuned overclock profiles, power draw and per-coin revenue per card.
 - **[Hashrate Index](https://hashrateindex.com/)** — Luxor's hashprice index, rig price index and mining market research for industrial-scale operators.
